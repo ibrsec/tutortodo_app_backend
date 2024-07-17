@@ -15,7 +15,7 @@ require('./src/config/dbConnection')();
 
 //?------#- MIDDLEWARES -#------
 app.use(express.json());
-app.use(cors({origin:'http://localhost:3000'}));
+app.use(cors({origin:'https://tutortodo-app-frontend.vercel.app'}));
 
 
 //?------#- ROUTES -#------
