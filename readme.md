@@ -160,7 +160,6 @@ npm run start
       |     |          
       |     └---routers (folder)  
       |      
-      |----swagger (folder) 
       |----.env
       |----index.js
       |----.gitignore
