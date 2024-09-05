@@ -16,9 +16,9 @@
     <!-- <a href="https://github.com/ibrsec/stock-app"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />  
-    <a href="https://github.com/ibrsec/tutortodo_app_backend">Frontend Repo</a>
+    <a href="https://github.com/ibrsec/tutortodo_app_frontend">Frontend Repo</a>
     ·
-    <a href="https://contacts-react-express.vercel.app/">Frontend Live</a>
+    <a href="https://tutortodo-app-frontend.vercel.app/">Frontend Live</a>
     ·
     <a href="https://github.com/ibrsec/tutortodo_app_backend/issues">Report Bug</a>
     ·
